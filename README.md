@@ -55,3 +55,4 @@ Jupyter conversion effort
 -------------------------
 
 Vincent Davis and Tiago Antao
+(with a few additional Demo notebooks by Gail Rosen)
